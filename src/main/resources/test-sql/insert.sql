@@ -1,0 +1,1 @@
+INSERT INTO LOCATION (ID, LAT, LNG, NAME) VALUES ( 1, 1, 1, 'test' );
